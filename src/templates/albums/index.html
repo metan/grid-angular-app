@@ -1,0 +1,15 @@
+<div ng-controller="AlbumsCtrl" ng-loading="albums" class="content">
+	<table>
+		<thead>
+			<tr>
+				<th ng-click="sortType = 'production_date'; sortReverse = !sortReverse">date</th>
+				<th ng-click="sortType = 'artist'; sortReverse = !sortReverse">artist</th>
+				<th ng-click="sortType = 'title'; sortReverse = !sortReverse">title</th>
+				<th>cover</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr album-row ng-repeat="album in albums | orderBy:sortType:sortReverse"></tr>
+		</tbody>
+	</table>
+</div>

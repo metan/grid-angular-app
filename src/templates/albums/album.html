@@ -1,0 +1,6 @@
+<tr>
+	<td>{{album.production_date | asDate | date:'dd.mm.yyyy'}}</td>
+	<td>{{album.artist}}</td>
+	<td>{{album.title}}</td>
+	<td><img ng-src="src/img/{{album.cover || 'default.jpg'}}" /></td>
+</tr>

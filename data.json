@@ -1,0 +1,603 @@
+[
+  {
+    "id": "582ea4ec7d1d579469470aef",
+    "artist": "Metallica",
+    "title": "Spacewax",
+    "production_date": "Sun Oct 23 2016 09:41:17 GMT+0200",
+    "cover": "mysz.jpg"
+  },
+  {
+    "id": "582ea4ec8fdb6f84208188ac",
+    "artist": "Beyonce",
+    "title": "Rugstars",
+    "production_date": "Mon Jun 15 2015 08:38:04 GMT+0200"
+  },
+  {
+    "id": "582ea4ece4f35f7df80157c4",
+    "artist": "Beyonce",
+    "title": "Signidyne",
+    "production_date": "Tue Oct 27 2015 01:33:53 GMT+0100"
+  },
+  {
+    "id": "582ea4ec62108e0b9c24ff10",
+    "artist": "Jay-z",
+    "title": "Matrixity",
+    "production_date": "Wed Jul 08 2015 11:47:58 GMT+0200"
+  },
+  {
+    "id": "582ea4ec61ce8bcf6c0a68e4",
+    "artist": "Metallica",
+    "title": "Eyeris",
+    "production_date": "Thu Feb 04 2016 12:40:55 GMT+0100"
+  },
+  {
+    "id": "582ea4ecbe43e2e9c19cbe41",
+    "artist": "Beyonce",
+    "title": "Filodyne",
+    "production_date": "Mon Jun 30 2014 21:24:00 GMT+0200"
+  },
+  {
+    "id": "582ea4ec6a32e1a115e9dd16",
+    "artist": "Metallica",
+    "title": "Eplosion",
+    "production_date": "Mon Mar 07 2016 03:57:16 GMT+0100"
+  },
+  {
+    "id": "582ea4ec964862a704212739",
+    "artist": "Metallica",
+    "title": "Equicom",
+    "production_date": "Mon Feb 01 2016 18:01:09 GMT+0100"
+  },
+  {
+    "id": "582ea4ec87383593ce68afde",
+    "artist": "Beyonce",
+    "title": "Combogene",
+    "production_date": "Thu Aug 11 2016 11:57:58 GMT+0200"
+  },
+  {
+    "id": "582ea4eccc461d2078f9832e",
+    "artist": "Beyonce",
+    "title": "Thredz",
+    "production_date": "Sat Jan 04 2014 08:44:33 GMT+0100"
+  },
+  {
+    "id": "582ea4ec0907be8b7f6e30e6",
+    "artist": "Beyonce",
+    "title": "Austech",
+    "production_date": "Fri Jun 06 2014 07:53:29 GMT+0200"
+  },
+  {
+    "id": "582ea4ec728b529f809b7a61",
+    "artist": "Jay-z",
+    "title": "Tsunamia",
+    "production_date": "Tue Jul 26 2016 06:20:25 GMT+0200"
+  },
+  {
+    "id": "582ea4ec15d40aa72948505b",
+    "artist": "Metallica",
+    "title": "Vantage",
+    "production_date": "Fri Jun 20 2014 12:46:17 GMT+0200"
+  },
+  {
+    "id": "582ea4ecc87e2d28eda03719",
+    "artist": "Beyonce",
+    "title": "Aquoavo",
+    "production_date": "Wed Dec 10 2014 00:19:39 GMT+0100"
+  },
+  {
+    "id": "582ea4ec83fb75a459ca239c",
+    "artist": "Beyonce",
+    "title": "Gaptec",
+    "production_date": "Wed Apr 13 2016 19:57:27 GMT+0200"
+  },
+  {
+    "id": "582ea4ec4d3e9605c1636c96",
+    "artist": "Metallica",
+    "title": "Zensor",
+    "production_date": "Fri Feb 26 2016 08:09:45 GMT+0100"
+  },
+  {
+    "id": "582ea4eccf6907fd61639acf",
+    "artist": "Metallica",
+    "title": "Barkarama",
+    "production_date": "Mon May 09 2016 14:47:57 GMT+0200"
+  },
+  {
+    "id": "582ea4ec17020d3622d5b540",
+    "artist": "Jay-z",
+    "title": "Egypto",
+    "production_date": "Mon Apr 06 2015 07:45:46 GMT+0200"
+  },
+  {
+    "id": "582ea4ec86cb49b0419e88f8",
+    "artist": "Metallica",
+    "title": "Jamnation",
+    "production_date": "Fri Mar 18 2016 00:02:59 GMT+0100"
+  },
+  {
+    "id": "582ea4ec26148623af5dba18",
+    "artist": "Jay-z",
+    "title": "Balooba",
+    "production_date": "Tue Jul 07 2015 05:49:43 GMT+0200"
+  },
+  {
+    "id": "582ea4ec8897100c1df3e279",
+    "artist": "Metallica",
+    "title": "Gushkool",
+    "production_date": "Thu Jun 19 2014 23:41:58 GMT+0200"
+  },
+  {
+    "id": "582ea4ec40a5a7fd1abdfe02",
+    "artist": "Jay-z",
+    "title": "Utarian",
+    "production_date": "Fri Sep 19 2014 01:11:36 GMT+0200"
+  },
+  {
+    "id": "582ea4eca4fe439b8ab5da1d",
+    "artist": "Metallica",
+    "title": "Nikuda",
+    "production_date": "Tue Aug 05 2014 11:04:48 GMT+0200"
+  },
+  {
+    "id": "582ea4ec1d5bc41821381955",
+    "artist": "Jay-z",
+    "title": "Soprano",
+    "production_date": "Thu Oct 02 2014 21:20:30 GMT+0200"
+  },
+  {
+    "id": "582ea4ec430fb94516f5a8f0",
+    "artist": "Metallica",
+    "title": "Providco",
+    "production_date": "Mon Mar 14 2016 17:51:02 GMT+0100"
+  },
+  {
+    "id": "582ea4ec0c07a469ce142ee9",
+    "artist": "Metallica",
+    "title": "Daido",
+    "production_date": "Sun Sep 18 2016 13:23:28 GMT+0200"
+  },
+  {
+    "id": "582ea4ec7d44d260578fd39e",
+    "artist": "Jay-z",
+    "title": "Dognost",
+    "production_date": "Wed Apr 23 2014 02:34:53 GMT+0200"
+  },
+  {
+    "id": "582ea4ec8334a312b98ac087",
+    "artist": "Beyonce",
+    "title": "Terrasys",
+    "production_date": "Wed Jan 20 2016 22:41:32 GMT+0100"
+  },
+  {
+    "id": "582ea4ec1c9eb8da852dbd97",
+    "artist": "Metallica",
+    "title": "Blurrybus",
+    "production_date": "Fri Jun 19 2015 12:20:33 GMT+0200"
+  },
+  {
+    "id": "582ea4eccb549c47f0901d5e",
+    "artist": "Jay-z",
+    "title": "Beadzza",
+    "production_date": "Sat Mar 28 2015 02:18:18 GMT+0100"
+  },
+  {
+    "id": "582ea4ece3f7dab333dcf034",
+    "artist": "Metallica",
+    "title": "Flumbo",
+    "production_date": "Thu Jun 26 2014 10:51:03 GMT+0200"
+  },
+  {
+    "id": "582ea4ece54877fe8972a3b1",
+    "artist": "Jay-z",
+    "title": "Netplax",
+    "production_date": "Sun Jul 10 2016 19:55:16 GMT+0200"
+  },
+  {
+    "id": "582ea4ecf4f66ef665c6ccdb",
+    "artist": "Jay-z",
+    "title": "Quilk",
+    "production_date": "Wed Apr 01 2015 05:51:39 GMT+0200"
+  },
+  {
+    "id": "582ea4ec25d470185682d64b",
+    "artist": "Beyonce",
+    "title": "Reversus",
+    "production_date": "Sat May 07 2016 22:37:39 GMT+0200"
+  },
+  {
+    "id": "582ea4ec459151505dd25971",
+    "artist": "Metallica",
+    "title": "Vortexaco",
+    "production_date": "Fri Jul 22 2016 09:07:08 GMT+0200"
+  },
+  {
+    "id": "582ea4ec05a8d98bbd3ea1b9",
+    "artist": "Beyonce",
+    "title": "Emoltra",
+    "production_date": "Sun Aug 23 2015 15:52:46 GMT+0200"
+  },
+  {
+    "id": "582ea4ec543757a49cf1e1e2",
+    "artist": "Metallica",
+    "title": "Zentia",
+    "production_date": "Sat Oct 22 2016 21:11:34 GMT+0200"
+  },
+  {
+    "id": "582ea4ec07de47e277cfc132",
+    "artist": "Jay-z",
+    "title": "Comvey",
+    "production_date": "Tue Feb 03 2015 00:53:25 GMT+0100"
+  },
+  {
+    "id": "582ea4ec93b4bd68ef18a547",
+    "artist": "Metallica",
+    "title": "Daisu",
+    "production_date": "Mon Jun 30 2014 11:17:19 GMT+0200"
+  },
+  {
+    "id": "582ea4ec620656e3f782b9c0",
+    "artist": "Metallica",
+    "title": "Comtract",
+    "production_date": "Tue May 17 2016 05:18:47 GMT+0200"
+  },
+  {
+    "id": "582ea4ec3f771395f739ed45",
+    "artist": "Beyonce",
+    "title": "Megall",
+    "production_date": "Sat Oct 22 2016 04:07:06 GMT+0200"
+  },
+  {
+    "id": "582ea4ec31ae49b029334cb2",
+    "artist": "Jay-z",
+    "title": "Cosmosis",
+    "production_date": "Sat Jan 17 2015 05:49:44 GMT+0100"
+  },
+  {
+    "id": "582ea4ec4892ddb7f62faed6",
+    "artist": "Jay-z",
+    "title": "Geekfarm",
+    "production_date": "Mon Mar 03 2014 04:12:08 GMT+0100"
+  },
+  {
+    "id": "582ea4ecdecf399b86ef7196",
+    "artist": "Beyonce",
+    "title": "Splinx",
+    "production_date": "Sun Dec 21 2014 15:24:10 GMT+0100"
+  },
+  {
+    "id": "582ea4ece28b1cf1fc055b05",
+    "artist": "Beyonce",
+    "title": "Cowtown",
+    "production_date": "Sun Jul 03 2016 02:31:49 GMT+0200"
+  },
+  {
+    "id": "582ea4ecc7ba281b3e09f0c7",
+    "artist": "Beyonce",
+    "title": "Zilidium",
+    "production_date": "Mon Oct 10 2016 10:40:39 GMT+0200"
+  },
+  {
+    "id": "582ea4ecee8df4b6d5d9f150",
+    "artist": "Beyonce",
+    "title": "Mediot",
+    "production_date": "Wed Aug 17 2016 23:40:20 GMT+0200"
+  },
+  {
+    "id": "582ea4ece3afba88f02bf890",
+    "artist": "Beyonce",
+    "title": "Envire",
+    "production_date": "Thu Oct 23 2014 02:47:28 GMT+0200"
+  },
+  {
+    "id": "582ea4ec4a343e1a6240f529",
+    "artist": "Beyonce",
+    "title": "Remold",
+    "production_date": "Sun Dec 27 2015 06:08:52 GMT+0100"
+  },
+  {
+    "id": "582ea4ecaf66f4396e64d684",
+    "artist": "Beyonce",
+    "title": "Micronaut",
+    "production_date": "Mon Sep 29 2014 18:12:58 GMT+0200"
+  },
+  {
+    "id": "582ea4ecb5959ae6171dcb7c",
+    "artist": "Metallica",
+    "title": "Xyqag",
+    "production_date": "Fri Jan 31 2014 06:20:20 GMT+0100"
+  },
+  {
+    "id": "582ea4ec786019360560488f",
+    "artist": "Beyonce",
+    "title": "Melbacor",
+    "production_date": "Mon Jun 13 2016 02:01:32 GMT+0200"
+  },
+  {
+    "id": "582ea4ecbe882da34b855d79",
+    "artist": "Beyonce",
+    "title": "Visalia",
+    "production_date": "Mon Oct 13 2014 02:13:24 GMT+0200"
+  },
+  {
+    "id": "582ea4ec38a266a54e8805dc",
+    "artist": "Metallica",
+    "title": "Earthpure",
+    "production_date": "Thu Jan 08 2015 09:32:26 GMT+0100"
+  },
+  {
+    "id": "582ea4ec29fd6a04b011300b",
+    "artist": "Beyonce",
+    "title": "Exospeed",
+    "production_date": "Wed Apr 27 2016 10:36:00 GMT+0200"
+  },
+  {
+    "id": "582ea4ec4d840e713076aefa",
+    "artist": "Beyonce",
+    "title": "Vicon",
+    "production_date": "Sun Dec 14 2014 03:22:47 GMT+0100"
+  },
+  {
+    "id": "582ea4ecea9d2d0f9c1d3e63",
+    "artist": "Metallica",
+    "title": "Slofast",
+    "production_date": "Wed Jul 27 2016 22:14:19 GMT+0200"
+  },
+  {
+    "id": "582ea4ec2b62127dec036cc7",
+    "artist": "Metallica",
+    "title": "Musix",
+    "production_date": "Sat Sep 06 2014 23:13:27 GMT+0200"
+  },
+  {
+    "id": "582ea4ecb62ba2dc9cad1c6a",
+    "artist": "Beyonce",
+    "title": "Eschoir",
+    "production_date": "Tue May 31 2016 04:54:30 GMT+0200"
+  },
+  {
+    "id": "582ea4ecfe2b016e3bcd5e62",
+    "artist": "Beyonce",
+    "title": "Slax",
+    "production_date": "Sat Nov 15 2014 02:24:33 GMT+0100"
+  },
+  {
+    "id": "582ea4ecf432a1e91c375a90",
+    "artist": "Metallica",
+    "title": "Hydrocom",
+    "production_date": "Thu Jun 26 2014 03:41:30 GMT+0200"
+  },
+  {
+    "id": "582ea4ec646b2b3bbd47a875",
+    "artist": "Metallica",
+    "title": "Snorus",
+    "production_date": "Tue Sep 15 2015 09:31:29 GMT+0200"
+  },
+  {
+    "id": "582ea4ecb3b88e5419d84bfb",
+    "artist": "Beyonce",
+    "title": "Geologix",
+    "production_date": "Tue Jul 22 2014 23:46:22 GMT+0200"
+  },
+  {
+    "id": "582ea4eccef2f639ba5de7d1",
+    "artist": "Beyonce",
+    "title": "Freakin",
+    "production_date": "Thu Apr 16 2015 05:12:34 GMT+0200"
+  },
+  {
+    "id": "582ea4ec64aa494830d80734",
+    "artist": "Beyonce",
+    "title": "Ecratic",
+    "production_date": "Mon Jan 06 2014 00:49:47 GMT+0100"
+  },
+  {
+    "id": "582ea4ec3363d4679b018582",
+    "artist": "Beyonce",
+    "title": "Isoswitch",
+    "production_date": "Sun Nov 08 2015 03:13:39 GMT+0100"
+  },
+  {
+    "id": "582ea4ec444e7c83b689eb64",
+    "artist": "Jay-z",
+    "title": "Twiggery",
+    "production_date": "Fri Feb 13 2015 07:00:31 GMT+0100"
+  },
+  {
+    "id": "582ea4ec625c5bdd6d99e215",
+    "artist": "Jay-z",
+    "title": "Sunclipse",
+    "production_date": "Tue Sep 01 2015 07:32:15 GMT+0200"
+  },
+  {
+    "id": "582ea4ec2731af431b64a267",
+    "artist": "Jay-z",
+    "title": "Pholio",
+    "production_date": "Wed Mar 23 2016 00:38:15 GMT+0100"
+  },
+  {
+    "id": "582ea4ec4276e88516600fd3",
+    "artist": "Jay-z",
+    "title": "Dyno",
+    "production_date": "Thu Jul 07 2016 12:41:09 GMT+0200"
+  },
+  {
+    "id": "582ea4eca2a986bc12b5dff1",
+    "artist": "Metallica",
+    "title": "Magnafone",
+    "production_date": "Thu Jul 31 2014 01:41:37 GMT+0200"
+  },
+  {
+    "id": "582ea4ec85a49af68b4a9a36",
+    "artist": "Jay-z",
+    "title": "Callflex",
+    "production_date": "Thu May 12 2016 03:40:44 GMT+0200"
+  },
+  {
+    "id": "582ea4ecd437f6b17049608e",
+    "artist": "Metallica",
+    "title": "Besto",
+    "production_date": "Fri Aug 05 2016 10:55:12 GMT+0200"
+  },
+  {
+    "id": "582ea4ec208dd08644ee737a",
+    "artist": "Metallica",
+    "title": "Anarco",
+    "production_date": "Sat Oct 24 2015 10:03:34 GMT+0200"
+  },
+  {
+    "id": "582ea4ec56b1a65476f243b6",
+    "artist": "Jay-z",
+    "title": "Aquafire",
+    "production_date": "Sun Jun 19 2016 09:42:19 GMT+0200"
+  },
+  {
+    "id": "582ea4ec8e95d1b480e537c7",
+    "artist": "Jay-z",
+    "title": "Imageflow",
+    "production_date": "Fri May 15 2015 00:54:08 GMT+0200"
+  },
+  {
+    "id": "582ea4ec960abe0e824ac89b",
+    "artist": "Beyonce",
+    "title": "Fuelton",
+    "production_date": "Sun Jan 05 2014 19:51:09 GMT+0100"
+  },
+  {
+    "id": "582ea4ec1fa98722281bcc48",
+    "artist": "Jay-z",
+    "title": "Scentric",
+    "production_date": "Sun Jun 14 2015 06:31:05 GMT+0200"
+  },
+  {
+    "id": "582ea4ec12ef12a54de5e7bd",
+    "artist": "Jay-z",
+    "title": "Lingoage",
+    "production_date": "Sat Apr 30 2016 00:04:17 GMT+0200"
+  },
+  {
+    "id": "582ea4ecbb9f6550700db4e1",
+    "artist": "Metallica",
+    "title": "Adornica",
+    "production_date": "Fri May 20 2016 15:10:17 GMT+0200"
+  },
+  {
+    "id": "582ea4eccc3de9b5a4de4ef0",
+    "artist": "Metallica",
+    "title": "Momentia",
+    "production_date": "Mon Mar 31 2014 15:02:06 GMT+0200"
+  },
+  {
+    "id": "582ea4ec6c13348ed63a54e4",
+    "artist": "Metallica",
+    "title": "Knowlysis",
+    "production_date": "Tue Jul 22 2014 17:12:19 GMT+0200"
+  },
+  {
+    "id": "582ea4ecec31c5dd2cd2dcb8",
+    "artist": "Metallica",
+    "title": "Applica",
+    "production_date": "Sun Aug 23 2015 06:47:05 GMT+0200"
+  },
+  {
+    "id": "582ea4ec36ca92566961a850",
+    "artist": "Jay-z",
+    "title": "Hawkster",
+    "production_date": "Wed Sep 16 2015 17:51:29 GMT+0200"
+  },
+  {
+    "id": "582ea4ec141e50597e741543",
+    "artist": "Metallica",
+    "title": "Moreganic",
+    "production_date": "Sat Mar 22 2014 14:56:54 GMT+0100"
+  },
+  {
+    "id": "582ea4ec8cec60e37ecf7cd1",
+    "artist": "Metallica",
+    "title": "Isotronic",
+    "production_date": "Fri May 09 2014 23:55:26 GMT+0200"
+  },
+  {
+    "id": "582ea4ec674693c99452b858",
+    "artist": "Metallica",
+    "title": "Puria",
+    "production_date": "Wed May 28 2014 23:28:48 GMT+0200"
+  },
+  {
+    "id": "582ea4ec2bff022389fdc2af",
+    "artist": "Jay-z",
+    "title": "Eweville",
+    "production_date": "Thu Apr 10 2014 09:05:41 GMT+0200"
+  },
+  {
+    "id": "582ea4ec59a6a3995486955f",
+    "artist": "Metallica",
+    "title": "Obliq",
+    "production_date": "Wed Jul 13 2016 18:54:25 GMT+0200"
+  },
+  {
+    "id": "582ea4eca46f5d087ae0f22b",
+    "artist": "Jay-z",
+    "title": "Ecosys",
+    "production_date": "Fri Aug 19 2016 00:25:06 GMT+0200"
+  },
+  {
+    "id": "582ea4ec3556f4b81a9eb54e",
+    "artist": "Metallica",
+    "title": "Extrawear",
+    "production_date": "Thu Jan 08 2015 14:06:02 GMT+0100"
+  },
+  {
+    "id": "582ea4ecadd24aebb8f06516",
+    "artist": "Jay-z",
+    "title": "Konnect",
+    "production_date": "Sat Sep 27 2014 13:27:09 GMT+0200"
+  },
+  {
+    "id": "582ea4ecbf700d28e9d00cb0",
+    "artist": "Metallica",
+    "title": "Xplor",
+    "production_date": "Thu Oct 30 2014 06:56:53 GMT+0100"
+  },
+  {
+    "id": "582ea4ec093043084098bdd0",
+    "artist": "Metallica",
+    "title": "Apex",
+    "production_date": "Mon Apr 20 2015 21:06:36 GMT+0200"
+  },
+  {
+    "id": "582ea4eca72d1bcc43d2cee9",
+    "artist": "Beyonce",
+    "title": "Songlines",
+    "production_date": "Sun Aug 17 2014 05:32:06 GMT+0200"
+  },
+  {
+    "id": "582ea4ecca07976baf14fbd1",
+    "artist": "Jay-z",
+    "title": "Wrapture",
+    "production_date": "Fri Jul 11 2014 10:24:47 GMT+0200"
+  },
+  {
+    "id": "582ea4ecbf1c3a97b3c18d2f",
+    "artist": "Beyonce",
+    "title": "Eventix",
+    "production_date": "Fri May 23 2014 19:54:17 GMT+0200"
+  },
+  {
+    "id": "582ea4ecc29c4b2442f57a1c",
+    "artist": "Metallica",
+    "title": "Applideck",
+    "production_date": "Fri May 20 2016 13:38:33 GMT+0200"
+  },
+  {
+    "id": "582ea4ecee789a6dff42ea59",
+    "artist": "Metallica",
+    "title": "Pivitol",
+    "production_date": "Sat Jan 17 2015 16:17:51 GMT+0100"
+  },
+  {
+    "id": "582ea4ecafd86230c9e0701f",
+    "artist": "Jay-z",
+    "title": "Gronk",
+    "production_date": "Wed May 20 2015 03:13:20 GMT+0200"
+  }
+]

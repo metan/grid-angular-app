@@ -1,0 +1,12 @@
+@import 'loader';
+
+.content {
+	min-height: 200px;
+	position: relative;
+	th:not(:last-child) {
+		cursor: pointer
+	}
+}
+img {
+	max-width: 35px;
+}
